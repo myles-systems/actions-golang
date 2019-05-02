@@ -1,8 +1,8 @@
-FROM golang:1.11
+FROM golang:1.12
 
 LABEL "name"="golang action"
 LABEL "maintainer"="Paul Vollmer <paul.vollmer@myles.systems>"
-LABEL "version"="1.11"
+LABEL "version"="1.12"
 
 LABEL "com.github.actions.icon"="code"
 LABEL "com.github.actions.color"="green-dark"
