@@ -2,7 +2,7 @@ FROM golang:1.12.6
 
 LABEL "name"="golang action"
 LABEL "maintainer"="Paul Vollmer <paul.vollmer@myles.systems>"
-LABEL "version"="1.12"
+LABEL "version"="1.12.6"
 
 LABEL "com.github.actions.icon"="code"
 LABEL "com.github.actions.color"="green-dark"
