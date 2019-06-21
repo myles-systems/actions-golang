@@ -1,4 +1,4 @@
-FROM golang:1.12
+FROM golang:1.12.6
 
 LABEL "name"="golang action"
 LABEL "maintainer"="Paul Vollmer <paul.vollmer@myles.systems>"
